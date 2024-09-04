@@ -24,6 +24,6 @@ After training, the model predicts stock prices on the test data, and the result
 
 ### Graph:
 
-![Stock Price Prediction](nvidia-prediction.png)
+![Stock Price Prediction](nvidia_prediction.png)
 
 
